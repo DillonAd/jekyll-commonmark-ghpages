@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-commonmark-ghpages"
   spec.summary       = "CommonMark generator for Jekyll"
-  spec.version       = "0.5.1"
+  spec.version       = "0.5.2"
   spec.authors       = ["GitHub, Inc."]
   spec.email         = "support@github.com"
   spec.homepage      = "https://github.com/github/jekyll-commonmark-ghpages"
